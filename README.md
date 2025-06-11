@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Haakim Ahamed</h1>
-<h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Haakim+Ahamed;Full-Stack+Developer+from+Sri+Lanka;Always+learning+new+tech!&center=true&width=500&height=50&color=58a6ff&vCenter=true&pause=1000" alt="Typing SVG" />
+</p>
+
+<h3 align="center">🌟 A passionate Full-Stack Developer from Sri Lanka 🌟</h3>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+projects.;Let's+connect+and+collaborate!;" alt="Typing SVG" />
 </p>
+
 ---
 
 ## 🚀 About Me
