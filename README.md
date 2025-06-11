@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Haakim+Ahamed;Full-Stack+Developer+from+Sri+Lanka;Always+learning+new+tech!&center=true&width=600&height=100&color=58a6ff&vCenter=true&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Haakim+Ahamed;Full-Stack+Developer+from+Sri+Lanka;Always+learning+new+tech!&center=true&width=800&height=200&color=58a6ff&vCenter=true&pause=1000" alt="Typing SVG" />
 </p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+projects.;Let's+connect+and+collaborate!;" alt="Typing SVG" />
