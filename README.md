@@ -5,12 +5,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+projects.;Let's+connect+and+collaborate!;" alt="Typing SVG" />
 </p>
 ---
+
 ## 🚀 About Me
 - 🔭 I’m working on a **Microlearning SaaS platform**
 - 🌱 Currently learning **Machine Learning & NoSQL**
 - 💬 Ask me about **Laravel, React, MySQL, or PHP**
 - 📫 Reach me: haakimajmal7@gmail.com
 - ⚡ Fun fact: I like building in silence while sipping coffee ☕
+- 
 ---
 
 ## 🌐 Socials:
