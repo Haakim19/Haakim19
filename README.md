@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Haakim+Ahamed;Full-Stack+Developer+from+Sri+Lanka;Always+learning+new+tech!&center=true&width=500&height=50&color=58a6ff&vCenter=true&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Haakim+Ahamed;Full-Stack+Developer+from+Sri+Lanka;Always+learning+new+tech!&center=true&width=600&height=100&color=58a6ff&vCenter=true&pause=1000" alt="Typing SVG" />
 </p>
-
-<h3 align="center">🌟 A passionate Full-Stack Developer from Sri Lanka 🌟</h3>
 
 ---
 
@@ -14,7 +12,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m working on a **Microlearning SaaS platform**
-- 🌱 Currently learning **Machine Learning & NoSQL**
+- 🌱 Currently learning **Machine Learning & Artificial Intelligence **
 - 💬 Ask me about **Laravel, React, MySQL, or PHP**
 - 📫 Reach me: haakimajmal7@gmail.com
 - ⚡ Fun fact: I like building in silence while sipping coffee ☕
@@ -48,7 +46,7 @@
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![arduino](https://img.shields.io/badge/arduino-%233cab65.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ---
 
 ## 📊 GitHub Stats:
