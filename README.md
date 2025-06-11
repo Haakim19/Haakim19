@@ -4,12 +4,9 @@
 
 
 <p align="center">
-  <ul style="list-style-type: disc; display: inline-block; text-align: left;">
-    <li>Welcome to my GitHub!</li>
-    <li>I love building cool projects.</li>
-    <li>Let's connect and collaborate!</li>
-  </ul>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=%E2%80%A2+Welcome+to+my+GitHub!;%E2%80%A2+I+love+building+cool+projects.;%E2%80%A2+Let's+connect+and+collaborate!" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -26,8 +23,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haakimaj) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HaakimAhamed) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haakimajmal7@gmail.com) 
-![Gitea Stars](https://img.shields.io/gitea/stars/Haakim19/:repo)
-
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/123456789012345678)
+ 
 ---
 
 ## 💻 Tech Stack:
