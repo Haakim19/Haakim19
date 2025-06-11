@@ -16,15 +16,13 @@
 - 💬 Ask me about **Laravel, React, MySQL, or PHP**
 - 📫 Reach me: haakimajmal7@gmail.com
 - ⚡ Fun fact: I like building in silence while sipping coffee ☕
-- 
 ---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haakimaj) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HaakimAhamed) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haakimajmal7@gmail.com) 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/123456789012345678)
- 
+
 ---
 
 ## 💻 Tech Stack:
