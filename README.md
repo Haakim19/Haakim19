@@ -4,7 +4,11 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+projects.;Let's+connect+and+collaborate!;" alt="Typing SVG" />
+  <ul style="list-style-type: disc; display: inline-block; text-align: left;">
+    <li>Welcome to my GitHub!</li>
+    <li>I love building cool projects.</li>
+    <li>Let's connect and collaborate!</li>
+  </ul>
 </p>
 
 ---
@@ -22,6 +26,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haakimaj) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HaakimAhamed) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haakimajmal7@gmail.com) 
+![Gitea Stars](https://img.shields.io/gitea/stars/Haakim19/:repo)
 
 ---
 
@@ -46,6 +51,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![arduino](https://img.shields.io/badge/arduino-%233cab65.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Rest Api](https://img.shields.io/badge/rest%20api-%23ab823c.svg?style=for-the-badge&logo=rest%20api&logoColor=white)
 ---
 
 ## 📊 GitHub Stats:
