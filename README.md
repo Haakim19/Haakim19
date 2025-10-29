@@ -11,11 +11,13 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m working on a **SaaS platform**
-- 🌱 Currently learning **Machine Learning & Artificial Intelligence**
-- 💬 Ask me about **Laravel, React, MySQL, or PHP**
-- 📫 Reach me: haakimajmal7@gmail.com
-- ⚡ Fun fact: I like building in silence while sipping coffee ☕
+- 🔭 I’m currently building a SaaS platform and exploring AI-powered products
+- 🌱 Learning and working with Data Science, Machine Learning, and Artificial Intelligence
+- 💻 Skilled in Laravel, React, PHP, MySQL, and Python (for Data Science)
+- 📊 Interested in data analytics, model development, and real-world AI applications
+- 💬 Ask me about full-stack development, data preprocessing, or model training
+- 📫 Reach me at: haakimajmal7@gmail.com
+- ⚡ Fun fact: I love building meaningful projects in silence while sipping coffee ☕
 ---
 
 ## 🌐 Socials:
